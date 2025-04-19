@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Teddy369oballa
+- 👋 Hi, I’m @Teddy Jorrym
 - 👀 I’m interested in Web development Software Development Machine Learning 
 - 🌱 I’m currently learning Web Development and Machine learning
 - 💞️ I’m looking to collaborate on Web Development and Machine Learning
-- 📫 How to reach me Email: teddyjorrym@gmail.com / tedscript@gmail.com and Whatsapp:+254 745 850 401
+- 📫 How to reach me Email: teddyjorrym@gmail.com and Whatsapp:+254 745 850 401
 - 😄 Pronouns: ...Him
 - ⚡ Fun fact: ...Benefits and Pleasures of Technology
 
